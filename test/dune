@@ -1,0 +1,4 @@
+(test
+  (name test_mcas)
+  (libraries combinators cas tui alcotest)
+  (modules test_mcas test_cas))

@@ -1,0 +1,4 @@
+(executable
+  (name main)
+  (public_name mcas)
+  (libraries combinators cas tui notty notty.unix cmdliner))
